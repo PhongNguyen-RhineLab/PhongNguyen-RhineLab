@@ -12,7 +12,12 @@
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,html,css,mysql,postgres,mongodb,redis,react,nodejs,express,aws,docker,kubernetes,unity,figma,anaconda,pytorch)](https://skillicons.dev)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,java,c,cpp,cs,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,react,nodejs,express,git,aws,docker,kubernetes,github,unity,figma,anaconda" />
+  </a>
+</p>
 
 ---
 
