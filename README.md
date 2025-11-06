@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **exciting projects at RhineLab**  
-- 🌱 Learning more about **cloud technologies, AI, and modern software engineering**  
+- 🌱 Learning more about **cloud technologies, AI, optimization, and modern software engineering**  
 - 👯 Open to collaborating on **innovative and impactful projects**  
 - 💬 Ask me about **AI training, cloud computing, and DevOps**  
 - 📫 Reach me at: **[tuanphong.studybox@gmail.com]**  
