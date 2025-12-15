@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Phong Nguyen  
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **exciting projects at RhineLab** , researcher at ORLab
+- 🔭 Currently working on **exciting projects at RhineLab, researcher at ORLab**
 - 🌱 Learning more about **cloud technologies, AI, optimization, and modern software engineering**  
 - 👯 Open to collaborating on **innovative and impactful projects**  
 - 💬 Ask me about **Machine Learning, LLM, NLP, cloud computing, and DevOps**  
@@ -27,7 +27,7 @@
 
 ---
 
-## 📌 My research 
+## 📌 My Research Paper
 
 - Budgeted Object Detection via Online Submodular Approximation Algorithm
 - An Explainable Artificial Intelligence Approach For Concrete Bridge Damage Detection
