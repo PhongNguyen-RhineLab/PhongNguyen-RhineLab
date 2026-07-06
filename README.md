@@ -34,10 +34,4 @@
 
 ---
 
-## 📌 GitHub Stats & Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhongNguyen-RhineLab&layout=compact&theme=react&hide_border=true)  
-
----
-
 ⭐️ Feel free to explore my repositories, researchs and connect with me!  
