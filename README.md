@@ -29,7 +29,7 @@
 
 ## 📌 My Research Paper
 
-- Budgeted Object Detection via Online Submodular Approximation Algorithm
+- [Budgeted Object Detection via Online Submodular Approximation Algorithm](https://doi.org/10.1007/978-981-92-2587-3_16)
 - An Explainable Artificial Intelligence Approach For Concrete Bridge Damage Detection
 
 ---
