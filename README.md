@@ -21,12 +21,6 @@
 
 ---
 
-
-## 📊 My GitHub Activity  
-[![PhongNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhongNguyen-RhineLab&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
 ## 📌 My Research Paper
 
 - [Budgeted Object Detection via Online Submodular Approximation Algorithm](https://doi.org/10.1007/978-981-92-2587-3_16)
